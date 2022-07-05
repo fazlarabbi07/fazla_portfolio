@@ -43,7 +43,7 @@ h1{
 
 }
 h2{
-    font-size: 40px;
+    font-size: 30px;
 }
 .experience-item{
     width: 40%;
@@ -52,4 +52,14 @@ h2{
     padding: 10px;
     border-radius: 8px;
     
+    
+}
+#border-blue{
+    border-left: 5px solid blue;  
+}
+#border-orange{
+    border-left: 5px solid tomato;
+}
+footer{
+    text-align: center;
 }
